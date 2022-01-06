@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MT4LC16M4H9
+D 16 MEG x 4 bit EDO DRAM
+F https://pdf1.alldatasheet.com/81488a58-ff47-4ffd-8f41-3bc44bbf6875
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SIMM-72
+D 72 pin SIMM DRAM edge connector
+F 72 pin SIMM DRAM card
+$ENDCMP
+#
+#End Doc Library
