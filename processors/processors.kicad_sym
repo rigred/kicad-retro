@@ -301,7 +301,7 @@
     (property "Value" "PGA321" (id 1) (at 6.35 6.35 0)
       (effects (font (size 1.524 1.524)) (justify right))
     )
-    (property "Footprint" "pga_intel:Socket7" (id 2) (at 6.35 3.81 0)
+    (property "Footprint" "pga_intel:Socket7" (id 2) (at 11.43 3.81 0)
       (effects (font (size 1.524 1.524)) (justify right) hide)
     )
     (property "Datasheet" "" (id 3) (at -44.45 97.79 0)

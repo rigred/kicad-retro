@@ -1,7 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP FPU_80387sx
-D Intel 80387SX FPU
-$ENDCMP
-#
-#End Doc Library
