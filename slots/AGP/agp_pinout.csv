@@ -1,0 +1,135 @@
+AGP_v3_PCI,J,slots:AGP_Universal,132 Pin AGP 3,
+,,,,
+pin,type,name,side,hidden
+A1,power_in,+12 V,top,n
+A9,power_in,+3.3 V,top,n
+B9,power_in,+3.3 V,top,n
+B16,power_in,+3.3 V,top,n
+B25,power_in,+3.3 V,top,n
+B28,power_in,+3.3 V,top,n
+B45,power_in,+3.3 V,top,n
+A16,power_in,+3.3 V ,top,n
+A25,power_in,+3.3 V ,top,n
+A28,power_in,+3.3 V ,top,n
+A45,power_in,+3.3 V ,top,n
+B24,power_in,+3.3 V aux,top,n
+B42,power_in,+3.3 V aux,top,n
+B2,power_in,+5 V,top,n
+B3,power_in,+5 V,top,n
+A59,output,~{AD_STB[0]} ,left,n
+A32,output,~{AD_STB[1]} ,left,n
+A57,output,~{C/BE[0]} ,left,n
+B51,output,~{C/BE[1]},left,n
+B39,output,~{C/BE[2]},left,n
+A33,output,~{C/BE[3]},left,n
+B46,bidirectional,~{DEVSEL},left,n
+A41,bidirectional,~{FRAME},right,n
+A3,input,~{GC_DET},left,n
+A8,bidirectional,~{GNT},left,n
+A6,Open-collector,~{INTA},left,n
+B6,Open-collector,~{INTB},left,n
+B41,bidirectional,~{IRDY},right,n
+A11,input,~{MB_DET},top,n
+B1,input,~{OVERCNT},top,n
+B48,bidirectional,~{PERR},right,n
+A12,bidirectional,~{PIPE}/DBI_HI,left,n
+A48,Open-collector,~{PME},bottom,n
+B12,output,~{RBF},left,n
+B8,output,~{REQ},left,n
+A7,input,~{RST},left,n
+A18,output,~{SB_STB} ,left,n
+B50,input,~{SERR},right,n
+A47,bidirectional,~{STOP},left,n
+A46,bidirectional,~{TRDY},left,n
+A2,input,~{TYPEDET},bottom,n
+A14,output,~{WBF},left,n
+B59,bidirectional,AD_STB[0],left,n
+B32,bidirectional,AD_STB[1],left,n
+A65,bidirectional,AD[0] ,right,n
+B65,bidirectional,AD[1],right,n
+B56,bidirectional,AD[10],right,n
+A54,bidirectional,AD[11] ,right,n
+B54,bidirectional,AD[12],right,n
+A53,bidirectional,AD[13] ,right,n
+B53,bidirectional,AD[14],right,n
+A51,bidirectional,AD[15],right,n
+A39,bidirectional,AD[16] ,right,n
+B38,bidirectional,AD[17],right,n
+A38,bidirectional,AD[18] ,right,n
+B36,bidirectional,AD[19],right,n
+A63,bidirectional,AD[2] ,right,n
+A36,bidirectional,AD[20] ,right,n
+B35,bidirectional,AD[21],right,n
+A35,bidirectional,AD[22] ,right,n
+B33,bidirectional,AD[23],right,n
+A30,bidirectional,AD[24] ,right,n
+B30,bidirectional,AD[25],right,n
+A29,bidirectional,AD[26] ,right,n
+B29,bidirectional,AD[27],right,n
+A27,bidirectional,AD[28] ,right,n
+B27,bidirectional,AD[29],right,n
+B63,bidirectional,AD[3],right,n
+A26,bidirectional,AD[30],right,n
+B26,bidirectional,AD[31],right,n
+A62,bidirectional,AD[4] ,right,n
+B62,bidirectional,AD[5],right,n
+A60,bidirectional,AD[6] ,right,n
+B60,bidirectional,AD[7],right,n
+B57,bidirectional,AD[8],right,n
+A56,bidirectional,AD[9] ,right,n
+B7,input,CLK,left,n
+B14,bidirectional,DBI_LO,left,n
+A5,gnd,Ground,bottom,n
+A13,gnd,Ground,bottom,n
+A49,gnd,Ground,bottom,n
+B5,gnd,Ground,bottom,n
+B13,gnd,Ground,bottom,n
+B19,gnd,Ground,bottom,n
+B23,gnd,Ground,bottom,n
+B31,gnd,Ground,bottom,n
+B37,gnd,Ground,bottom,n
+B43,gnd,Ground,bottom,n
+B49,gnd,Ground,bottom,n
+B55,gnd,Ground,bottom,n
+B61,gnd,Ground,bottom,n
+A19,gnd,Ground ,bottom,n
+A23,gnd,Ground ,bottom,n
+A31,gnd,Ground ,bottom,n
+A37,gnd,Ground ,bottom,n
+A43,gnd,Ground ,bottom,n
+A55,gnd,Ground ,bottom,n
+A61,gnd,Ground ,bottom,n
+A50,bidirectional,PAR,right,n
+A22,nc,Reserved,bottom,n
+A42,nc,Reserved,bottom,n
+B22,nc,Reserved,bottom,n
+B44,nc,Reserved,bottom,n
+A24,nc,Reserved ,bottom,n
+A44,nc,Reserved ,bottom,n
+B18,output,SB_STB,left,n
+B15,output,SBA[0],left,n
+A15,output,SBA[1],left,n
+B17,output,SBA[2],left,n
+A17,output,SBA[3] ,left,n
+B20,output,SBA[4],left,n
+A20,output,SBA[5] ,left,n
+B21,output,SBA[6],left,n
+A21,output,SBA[7] ,left,n
+B10,input,ST[0],left,n
+A10,input,ST[1],left,n
+B11,input,ST[2],left,n
+B4,Tri-state,USB+,left,n
+A4,Tri-state,USB−,left,n
+A40,power_in,Vddq,top,n
+B34,power_in,Vddq,top,n
+B40,power_in,Vddq,top,n
+B47,power_in,Vddq,top,n
+B52,power_in,Vddq,top,n
+B58,power_in,Vddq,top,n
+B64,power_in,Vddq,top,n
+A34,power_in,Vddq ,top,n
+A52,power_in,Vddq ,top,n
+A58,power_in,Vddq ,top,n
+A64,power_in,Vddq ,top,n
+A66,power_in,Vrefgc,top,n
+B66,power_in,Vregcg,top,n

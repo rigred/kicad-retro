@@ -1,0 +1,14 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"8432-21B1-RK-TP";"";
+"TraceParts.PartVersion";"1.0.2";"";
+"SUPPLIER";"3M";"";
+"TraceParts.PartStatus";"Published";"";
+"ALLIED_STOCK_NUMBER";"70429834";"";
+"TraceParts.PartNumber";"10-12012018-126259";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"32 way SMT PLCC production socket";"";
+"TraceParts.InstanceId";"10-12012018-126259F1NODAQVAQ4BABSU6PRTWTE5K";"";
+"TraceParts.PartTitle";"32 way SMT PLCC production socket";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"ALLIED_ELECTRONICS:10-12012018-126259";"";
