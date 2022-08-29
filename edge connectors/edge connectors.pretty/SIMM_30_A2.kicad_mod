@@ -1,6 +1,7 @@
 (footprint "SIMM_30_A2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
   (tedit 0)
+  (descr "30 pin SIMM DRAM Edge Round Pads")
   (property "Sheetfile" "16MB SIMM 30.kicad_sch")
   (property "Sheetname" "")
   (attr smd)
