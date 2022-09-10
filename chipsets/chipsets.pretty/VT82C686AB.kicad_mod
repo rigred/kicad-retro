@@ -746,7 +746,7 @@
   (pad "Y18" smd circle (at 24.13 2.54 90) (size 0.75 0.75) (layers "F.Cu") (tstamp 5d1b3f9a-818e-47c4-bcad-5be9041878fb))
   (pad "Y19" smd circle (at 24.13 1.27 90) (size 0.75 0.75) (layers "F.Cu") (tstamp 9fcfed94-baa0-4c2c-85e2-5fadf88d6433))
   (pad "Y20" smd circle (at 24.13 0 90) (size 0.75 0.75) (layers "F.Cu") (tstamp 92a1916f-453e-4f22-b2c5-8a3357fe81e4))
-  (model "/home/rgr/code/GitHub/kicad-retro/chipsets/430HX/VIA 686B.step"
+  (model "/home/rgr/code/GitHub/kicad-retro/chipsets/VT82C686B/VIA 686B.step"
     (offset (xyz -1.45 -25.55 0.25))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 -90))
