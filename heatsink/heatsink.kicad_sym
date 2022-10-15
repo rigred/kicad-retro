@@ -12,6 +12,9 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "AMD_AM2_Heatsink_0_1"
       (circle (center 0 -3.81) (radius 1.27)
         (stroke (width 1.27) (type default) (color 0 0 0 0))

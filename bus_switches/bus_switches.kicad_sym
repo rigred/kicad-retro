@@ -15,6 +15,9 @@
     (property "manf#" "22-Bit Voltage Clamp" (id 4) (at 16.51 -58.42 90)
       (effects (font (size 1.524 1.524)) (justify left) hide)
     )
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "SN74TVC16222A_1_1"
       (rectangle (start 5.08 2.54) (end 25.4 -68.58)
         (stroke (width 0) (type default) (color 0 0 0 0))

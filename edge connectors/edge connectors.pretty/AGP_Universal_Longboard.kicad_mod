@@ -10,6 +10,10 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 054352bb-c8c4-4437-9395-5e764502a61d)
   )
+  (fp_text user "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)" (at 238.125 -53.34 90 unlocked) (layer "F.SilkS")
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 0a948680-abc2-4798-8cf7-fb33dc2cc2b8)
+  )
   (fp_text user "Long Card" (at 245.8 -103.600001 90 unlocked) (layer "Cmts.User")
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 9aca4ac5-b2dc-413e-ab9a-b4284d6b3b28)
@@ -1338,7 +1342,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 45eabee8-ba48-45ea-922f-8a4e80e28800) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed ) (copperpour allowed) (footprints not_allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour allowed) (footprints not_allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -1352,7 +1356,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp 4d4bde66-c2ee-429a-b783-cfc577f91d4d) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed ) (copperpour allowed) (footprints not_allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour allowed) (footprints not_allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts
@@ -1366,7 +1370,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp d1d059ea-56b7-4b23-803b-0c940380e9ed) (hatch edge 0.508)
     (connect_pads (clearance 0))
     (min_thickness 0.254)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed ) (copperpour allowed) (footprints not_allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour allowed) (footprints not_allowed))
     (fill (thermal_gap 0.508) (thermal_bridge_width 0.508))
     (polygon
       (pts

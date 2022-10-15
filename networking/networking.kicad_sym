@@ -12,6 +12,9 @@
     (property "Datasheet" "" (id 3) (at -2.54 0 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "RTL8169S_0_0"
       (rectangle (start -15.24 -43.18) (end 15.24 -53.34)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
@@ -562,8 +565,8 @@
     (property "MANUFACTURER" "Realtek" (id 6) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "ki_locked" "" (id 7) (at 0 0 0)
-      (effects (font (size 1.27 1.27)))
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "RTL8211D-VB-GR_0_0"
       (rectangle (start -17.78 -45.72) (end 17.78 43.18)

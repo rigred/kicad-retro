@@ -21,8 +21,8 @@
     (property "MANUFACTURER" "TE Connectivity" (id 6) (at -5.08 82.55 0)
       (effects (font (size 1.27 1.27)) (justify left bottom) hide)
     )
-    (property "ki_locked" "" (id 7) (at 0 0 0)
-      (effects (font (size 1.27 1.27)))
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 7) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "1-5145154-2_0_0"
       (rectangle (start -7.62 -78.74) (end 7.62 78.74)
@@ -527,8 +527,8 @@
     (property "manf#" "132 Pin AGP 3" (id 4) (at -69.85 -21.59 0)
       (effects (font (size 1.524 1.524)) (justify right) hide)
     )
-    (property "ki_locked" "" (id 5) (at 0 0 0)
-      (effects (font (size 1.27 1.27)))
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 5) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "AGP_v3_PCI_0_0"
       (rectangle (start -68.58 0) (end -55.88 17.78)
@@ -1175,6 +1175,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at -55.88 22.86 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "PCI_Universal_slot_0_0"

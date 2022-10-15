@@ -10,6 +10,10 @@
     (effects (font (size 1 1) (thickness 0.15)))
     (tstamp 82aa876d-bcb9-4544-8837-b4d47d636778)
   )
+  (fp_text user "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)" (at 0 7.62 unlocked) (layer "F.Fab")
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp af334b9c-f931-4e04-9944-021d8515564e)
+  )
   (fp_poly (pts
       (xy -0.98 -0.98)
       (xy 0.98 -0.98)

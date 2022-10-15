@@ -214,6 +214,10 @@
     (effects (font (size 0.7 0.7) (thickness 0.1)))
     (tstamp f953c3e7-9c97-438e-9890-e847cd326b93)
   )
+  (fp_text user "Licensed under the TAPR Open Hardware License (www.tapr.org/OHL)" (at 14.605 26.035 unlocked) (layer "F.Fab")
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+    (tstamp 23590342-25b1-442c-81a1-a4aa35f62ac8)
+  )
   (fp_rect (start 0 0) (end 29 22) (layer "F.SilkS") (width 0.12) (fill none) (tstamp c1688670-d260-4a4f-b93c-5502f3687067))
   (fp_poly (pts
       (xy 29 22)

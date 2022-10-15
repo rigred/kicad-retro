@@ -12,6 +12,9 @@
     (property "Datasheet" "" (id 3) (at 0 83.82 0)
       (effects (font (size 1.27 1.27)) hide)
     )
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "EmbMod_Ctrl_0_0"
       (rectangle (start -7.62 -78.74) (end 7.62 76.2)
         (stroke (width 0.1524) (type default) (color 0 0 0 0))
@@ -510,6 +513,9 @@
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (id 3) (at 0 93.98 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 4) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "EmbMod_DRAM_1_0"

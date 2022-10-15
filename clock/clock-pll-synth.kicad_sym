@@ -12,6 +12,9 @@
     (property "Datasheet" "" (id 3) (at 0 0 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
     (symbol "PT7C4511_0_0"
       (rectangle (start -7.62 10.16) (end 7.62 -5.08)
         (stroke (width 0.254) (type default) (color 0 0 0 0))

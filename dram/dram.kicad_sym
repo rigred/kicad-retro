@@ -12,7 +12,10 @@
     (property "Datasheet" "https://pdf1.alldatasheet.com/81488a58-ff47-4ffd-8f41-3bc44bbf6875" (id 3) (at 41.91 43.18 0)
       (effects (font (size 1.524 1.524)) (justify right) hide)
     )
-    (property "ki_description" "16 MEG x 4 bit EDO DRAM" (id 4) (at 0 0 0)
+    (property "License" "Licensed under the TAPR Open Hardare License (www.tapr.org/OHL)" (id 4) (at 0 0 0)
+      (effects (font (size 1.27 1.27)) hide)
+    )
+    (property "ki_description" "16 MEG x 4 bit EDO DRAM" (id 5) (at 0 0 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (symbol "MT4LC16M4H9_1_1"
